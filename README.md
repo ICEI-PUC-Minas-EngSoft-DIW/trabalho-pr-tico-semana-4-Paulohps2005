@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Paulo Henrique Pereira de Souza
+- Matricula: 906623
+- Proposta de projeto escolhida: Site para assistir animes
+- Breve descrição sobre seu projeto: Sempre tive interesse em animes, então decidi criar algo que eu mesmo gostaria de utilizar.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print do wireframe](public/imagens/wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home-page](public/imagens/pagina.png)

@@ -1,3 +1,100 @@
-body {
-    background-color: aquamarine;
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(121, 18, 18);
+    padding: 0px 20px;
 }
+
+.esquerda {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+} 
+
+.logo {
+    height: 90px;
+}
+
+.menu {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.search-form {
+    display: flex;
+    gap: 10px;
+}
+
+.search-form input {
+    padding: 5px;
+}
+
+.search-form button {
+    padding: 5px 10px;
+}
+
+.login {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+
+main {
+    background-color: rgba(26, 25, 25, 0.801);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+
+.Populares, 
+.Favoritos {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255)
+}
+
+
+.alinhamento {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.alinhamento img,
+.Favoritos img {
+    width: 270px;
+    height: 405px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.anime {
+    text-align: center;
+}
+
+
+body {
+    background-color: rgb(19, 19, 19);
+}
+
+h2 {
+    margin-left: 50px;
+}
+
+.anime p {
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #a68989;
+    transition: 0.3s;
+}
+
+.anime:hover p {
+    color: #ffffff;
+}
+
